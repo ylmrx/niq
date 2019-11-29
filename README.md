@@ -1,17 +1,17 @@
 # niq
 
-go self education thing about uniq/sort/... 
+Go self education thing about uniq/sort/... 
 
 ## notes
 
-works only with >10 lines (out of bound otherwise)
+Currently works only with >10 lines (out of bound otherwise)
+
+And only on stdin.
 
 ## usage
 
 ```bash
-
 ./niq < big_file
-
 ```
 
 
